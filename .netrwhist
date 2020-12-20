@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/home/filip/Documents/id1206/assign/storage'
-let g:netrw_dirhist_2='/home/filip/Documents/id1212/project/song-quiz/src/main/java/se/kth/id1212/songquiz/config'
-let g:netrw_dirhist_1='/home/filip/.config/nvim/init.vim'
