@@ -18,4 +18,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'neoclide/coc.nvim', {'branch': 'release'}  
   " Treesitter
   "Plug 'nvim-treesitter/nvim-treesitter', { 'commit': '3c07232' }
+  " Nerd tree
+  Plug 'preservim/nerdtree'
 call plug#end()
